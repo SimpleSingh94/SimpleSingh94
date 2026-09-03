@@ -1,167 +1,138 @@
-# 👋 Hi, I'm Simple Singh
+<h1 align="center">Hi 👋, I'm Simple Singh</h1>
+
+<h3 align="center">
+  Computer Science Engineer • Full Stack Developer • Java & Python
+</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;React+%7C+Node.js+%7C+Flask;Always+Learning+%26+Building+%F0%9F%9A%80" />
+  <a href="https://github.com/SimpleSingh94">
+    <img src="https://komarev.com/ghpvc/?username=SimpleSingh94&label=Profile%20Views&color=blue&style=flat" />
+  </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SimpleSingh94&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Building+Web+Applications+%F0%9F%92%BB;Java+%7C+Python+%7C+JavaScript;React+%7C+Node.js+%7C+Flask;Learning+DSA+%26+Backend+Development+%F0%9F%9A%80" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
 🎓 **B.Tech Computer Science & Engineering Graduate**
 
-💻 Passionate about **Software Development & Full-Stack Development**
+💻 I enjoy building **web applications, backend systems, and practical software projects**.
 
-☕ Java | 🐍 Python | ⚡ JavaScript
+🔹 Strong interest in **Software Development & Full Stack Development**
 
-🌐 React.js | Node.js | Express.js | Flask
+🔹 Programming with **Java, Python and JavaScript**
 
-🗄️ MySQL | MongoDB
+🔹 Building applications with **React, Node.js, Express.js and Flask**
 
-🤖 Machine Learning | Scikit-learn | NumPy
+🔹 Working with **MySQL and MongoDB**
 
-🧠 Practicing **Data Structures & Algorithms**
+🔹 Exploring **Machine Learning with Python**
 
-🎯 Looking for opportunities in **Software Development & Full-Stack Development**
+🔹 Currently improving my **Data Structures & Algorithms**
+
+🎯 **Open to Software Developer, Java Developer, Python Developer and Full Stack Developer opportunities.**
 
 ---
 
-## 🛠️ My Tech Stack
+## 🧰 Technologies I Work With
 
-### 👨‍💻 Languages
+<p align="center">
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=java,python,javascript" />
-</p>
+<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,express,flask,mysql,mongodb,git,github,vscode" />
 
-### 🌐 Frontend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
-</p>
-
-### ⚙️ Backend
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
-</p>
-
-### 🗄️ Database
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
-### 🔧 Tools
-
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-# 📌 Featured Projects
+## 🚀 Featured Projects
 
-### ❤️ Heart Disease Detection System
+<table>
+<tr>
+<td width="50%">
 
-**Python | Flask | Scikit-learn | NumPy | Bootstrap**
+### ❤️ Heart Disease Detection
 
-> Machine Learning based web application for predicting the possibility of heart disease from medical input data.
+**Python • Flask • Scikit-learn**
 
-🔹 ML prediction model  
-🔹 Flask backend  
-🔹 Doctor & Patient login  
-🔹 Patient query functionality  
-🔹 Responsive interface  
+Machine-learning web application that predicts the possibility of heart disease using medical input data.
 
----
+**Highlights**
+- Machine Learning prediction
+- Flask backend
+- Doctor & Patient login
+- Patient query functionality
+- Responsive interface
 
-### 🍽️ Restaurant Management System
+</td>
 
-**HTML | CSS | JavaScript**
+<td width="50%">
 
-> Web-based restaurant management system with separate client and staff workflows.
+### 🍽️ Restaurant Management
 
-🔹 Client Login  
-🔹 Registration  
-🔹 Menu Management  
-🔹 Staff Dashboard  
-🔹 Order Management  
-🔹 Food & Cooking Management  
+**HTML • CSS • JavaScript**
 
----
+Web-based restaurant management application with separate client and staff workflows.
+
+**Highlights**
+- Client dashboard
+- Customer registration
+- Menu management
+- Staff dashboard
+- Order management
+- Restaurant operations
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
 
 ### 👨‍👩‍👧 Family Management System
 
-**Java | JDBC | MySQL**
+**Java • JDBC • MySQL**
 
-> Java application for managing family information using database connectivity.
+Desktop application for managing family information with database connectivity.
 
-🔹 CRUD Operations  
-🔹 MySQL Database  
-🔹 JDBC Connectivity  
-🔹 Record Management  
+**Highlights**
+- CRUD operations
+- MySQL integration
+- JDBC connectivity
+- Record management
 
----
+</td>
+
+<td width="50%">
 
 ### 🧠 Online Quiz Platform
 
-**HTML | CSS | JavaScript | Node.js | JSON**
+**JavaScript • Node.js • JSON**
 
-> Interactive online quiz platform with timed tests and performance-based interview functionality.
+Interactive quiz platform with timed tests and score-based interview functionality.
 
-🔹 Subject-wise Questions  
-🔹 Timer  
-🔹 Automatic Scoring  
-🔹 JSON Question Database  
-🔹 Interview Scheduling  
+**Highlights**
+- Subject-wise questions
+- Timer
+- Automatic scoring
+- Dynamic JSON questions
+- Interview scheduling
 
----
-
-# 📊 GitHub Analytics
-
-<p align="center">
-
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=SimpleSingh94&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimpleSingh94&layout=compact&theme=tokyonight&hide_border=true" />
-
-</p>
+</td>
+</tr>
+</table>
 
 ---
 
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=SimpleSingh94&theme=tokyonight&hide_border=true" />
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SimpleSingh94&theme=tokyo-night&hide_border=true" />
-
-</p>
-
----
-
-# 💻 Coding Journey
+## 💻 What I'm Currently Working On
 
 ```text
-Java                 █████████████████░░░  85%
-Python               ████████████████░░░░  80%
-JavaScript           ███████████████░░░░░  75%
-React.js             █████████████░░░░░░░  65%
-Node.js              █████████████░░░░░░░  65%
-SQL / MySQL          ███████████████░░░░░  75%
-MongoDB              ████████████░░░░░░░░  60%
-Machine Learning     ████████████░░░░░░░░  60%
+🔹 Data Structures & Algorithms
+🔹 Java Development
+🔹 Full Stack Development
+🔹 React.js
+🔹 Node.js & Express.js
+🔹 SQL & Database Management
+🔹 Machine Learning
