@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Simple Singh</h1>
+<h1 align="center">Simple Singh</h1>
 
 <p align="center">
   <strong>Computer Science Engineer | Software Developer | Full-Stack Developer</strong>
@@ -17,65 +17,54 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Java+%7C+Python+%7C+JavaScript;React+%7C+Node.js+%7C+Express.js+%7C+Flask;Full-Stack+Development+%7C+Machine+Learning;Building+Practical+Software+Solutions;Always+Learning+%26+Improving+%F0%9F%9A%80">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Java+%7C+Python+%7C+JavaScript;React+%7C+Node.js+%7C+Express.js+%7C+Flask;Full-Stack+Development+%7C+Machine+Learning;Software+Development+%7C+Problem+Solving">
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 👩‍💻 Professional Summary
 
-I'm a **Computer Science & Engineering graduate** passionate about software development, full-stack development, and problem solving.
+Computer Science & Engineering graduate with hands-on experience in **software development, full-stack web development, backend development, database management, and machine learning**.
 
-I enjoy building practical applications using **Java, Python, JavaScript, React, Node.js, Express.js, Flask, MySQL, and MongoDB**.
+Technical proficiency includes **Java, Python, JavaScript, React.js, Node.js, Express.js, Flask, MySQL, MongoDB, NumPy, and Scikit-learn**.
 
-I also have experience working with **Machine Learning using Python, NumPy, and Scikit-learn**.
+Experienced in developing academic and personal projects involving **web applications, CRUD systems, database integration, REST-based backend development, and machine-learning workflows**.
 
-- 🎓 B.Tech in Computer Science & Engineering
-- 💻 Interested in Software & Full-Stack Development
-- ☕ Java Developer
-- 🐍 Python Developer
-- 🌐 Web & Backend Development
-- 🤖 Machine Learning
-- 🧠 Data Structures & Algorithms
-- 🚀 Building practical software projects
+Currently focused on strengthening **Data Structures & Algorithms, backend engineering, and full-stack development**.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Skills
 
-### 💻 Programming Languages
+### Programming Languages
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
-### 🌐 Frontend
+### Frontend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=html,css,react,redux,bootstrap" />
 </p>
 
-### ⚙️ Backend
+### Backend Development
 
 <p>
   <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 </p>
 
-### 🗄️ Databases
+### Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### 🤖 Data & Machine Learning
-
-<p>
+### Data & Machine Learning
 
 `NumPy` `Scikit-learn` `Machine Learning` `Data Processing`
 
-</p>
-
-### 🔧 Tools
+### Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
@@ -83,102 +72,95 @@ I also have experience working with **Machine Learning using Python, NumPy, and 
 
 ---
 
-# 🚀 Featured Projects
+# 🚀 Selected Projects
 
-<table>
-<tr>
+## ❤️ Heart Disease Detection System
 
-<td width="50%">
+**Python | Flask | Scikit-learn | NumPy | Bootstrap**
 
-## ❤️ Heart Disease Detection
+Machine-learning-based web application for predicting the possibility of heart disease from medical input data.
 
-**Python · Flask · Scikit-learn · NumPy · Bootstrap**
+**Key Components**
 
-Machine-learning-based web application that predicts the possibility of heart disease using medical input data.
-
-### Features
-
-- Machine Learning prediction
+- Machine-learning prediction model
 - Flask backend
-- Doctor & Patient login
+- Doctor and patient authentication
 - Patient query functionality
 - Medical data processing
-- Responsive web interface
-
-</td>
-
-<td width="50%">
-
-## 🍽️ Restaurant Management
-
-**HTML · CSS · JavaScript**
-
-Web-based restaurant management application with separate client and staff workflows.
-
-### Features
-
-- Client Login
-- Customer Registration
-- Menu Management
-- Staff Dashboard
-- Food Management
-- Cooking Management
-- Cleaning Management
-- Order Management
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%">
-
-## 👨‍👩‍👧 Family Management System
-
-**Java · JDBC · MySQL**
-
-Java-based application for managing family information using database connectivity.
-
-### Features
-
-- CRUD Operations
-- MySQL Integration
-- JDBC Connectivity
-- Record Management
-- Database Operations
-
-</td>
-
-<td width="50%">
-
-## 🧠 Online Quiz Platform
-
-**HTML · CSS · JavaScript · Node.js · JSON**
-
-Interactive online quiz platform with timed assessments and performance-based interview functionality.
-
-### Features
-
-- Subject-wise Questions
-- Timer-based Tests
-- Dynamic Questions
-- Automatic Scoring
-- Performance Evaluation
-- Interview Scheduling
-
-</td>
-
-</tr>
-</table>
+- Web-based user interface
 
 ---
 
-# 🧠 Problem Solving
+## 🍽️ Restaurant Management System
 
-I regularly practice **Data Structures & Algorithms** and programming problems.
+**HTML | CSS | JavaScript**
 
-### Areas of Practice
+Web-based restaurant management application designed with separate client and staff workflows.
+
+**Key Components**
+
+- Client login
+- Customer registration
+- Menu browsing and selection
+- Staff dashboard
+- Food management
+- Cooking management
+- Cleaning management
+- Order management
+
+---
+
+## 👨‍👩‍👧 Family Management System
+
+**Java | JDBC | MySQL**
+
+Java-based application for managing family information through database connectivity.
+
+**Key Components**
+
+- Create, Read, Update and Delete operations
+- MySQL database integration
+- JDBC connectivity
+- Record management
+- Database operations
+
+---
+
+## 🧠 Online Quiz Platform
+
+**HTML | CSS | JavaScript | Node.js | JSON**
+
+Interactive quiz platform supporting timed assessments and performance-based interview workflows.
+
+**Key Components**
+
+- Subject-wise questions
+- Timed assessments
+- Dynamic question loading
+- Automatic score calculation
+- Performance evaluation
+- Interview scheduling workflow
+
+---
+
+## 🐍 Snake Game
+
+**Java | Java GUI**
+
+Desktop-based Snake Game developed using Java GUI programming.
+
+**Key Components**
+
+- Interactive gameplay
+- Keyboard controls
+- Score tracking
+- Game restart functionality
+
+---
+
+# 🧠 Data Structures & Algorithms
+
+Regular practice of programming and problem-solving concepts including:
 
 - Arrays
 - Strings
@@ -189,26 +171,26 @@ I regularly practice **Data Structures & Algorithms** and programming problems.
 - Recursion
 - Basic Algorithms
 - Java Programming
-- Problem Solving
 
 <p>
   <a href="https://www.geeksforgeeks.org/profile/94sims6gcy">
-    <img src="https://img.shields.io/badge/View%20My%20GFG%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+    <img src="https://img.shields.io/badge/GeeksforGeeks%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
   </a>
 </p>
 
 ---
 
-# 📚 Currently Learning
+# 📚 Current Focus
 
 - Data Structures & Algorithms
 - Advanced Java
+- Full-Stack Development
 - Backend Development
 - React.js
 - Node.js & Express.js
 - SQL & Database Management
 - Machine Learning
-- Software Development Best Practices
+- Software Engineering Practices
 
 ---
 
@@ -246,23 +228,29 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimpleSingh9
 
 ---
 
-# 🎯 Career Focus
+# 🎓 Education
 
-I'm currently focused on becoming a strong **Software Developer** by continuously improving my programming, problem-solving, and development skills.
+**Bachelor of Technology — Computer Science & Engineering**
 
-### Interested In
-
-💻 Software Development  
-🌐 Full-Stack Development  
-☕ Java Development  
-🐍 Python Development  
-⚙️ Backend Development  
-🤖 Machine Learning  
-🧠 Data Structures & Algorithms  
+Lucknow University  
+2021 – 2025
 
 ---
 
-# 🤝 Connect With Me
+# 🎯 Career Focus
+
+Seeking opportunities in:
+
+- Software Development
+- Full-Stack Development
+- Java Development
+- Python Development
+- Backend Development
+- Web Development
+
+---
+
+# 🤝 Professional Profiles
 
 <p align="center">
 
@@ -283,11 +271,6 @@ I'm currently focused on becoming a strong **Software Developer** by continuousl
 ---
 
 <p align="center">
-
-### 💻 Build • Learn • Solve • Grow 🚀
-
+  <strong>Software Development • Problem Solving • Continuous Learning</strong>
 </p>
 
-<p align="center">
-  <i>Thanks for visiting my profile!</i>
-</p>
