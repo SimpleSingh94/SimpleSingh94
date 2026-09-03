@@ -1,180 +1,167 @@
 # 👋 Hi, I'm Simple Singh
 
-<h3 align="center">
-  💻 Computer Science Engineer | Full-Stack Developer | Java & Python Developer
-</h3>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Computer+Science+Engineer;Full+Stack+Developer;Java+%7C+Python+%7C+JavaScript;React+%7C+Node.js+%7C+Flask;Always+Learning+%26+Building+%F0%9F%9A%80" />
+</p>
 
 <p align="center">
-  <a href="https://github.com/SimpleSingh94">
-    <img src="https://img.shields.io/badge/GitHub-SimpleSingh94-181717?style=for-the-badge&logo=github"/>
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=SimpleSingh94&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## 🚀 About Me
 
 🎓 **B.Tech Computer Science & Engineering Graduate**
 
-💻 Passionate about **Software Development, Full-Stack Development and Problem Solving**
+💻 Passionate about **Software Development & Full-Stack Development**
 
-🚀 I enjoy building practical applications using **Java, Python, JavaScript and modern web technologies**.
+☕ Java | 🐍 Python | ⚡ JavaScript
 
-🤖 I have also worked on **Machine Learning-based applications** using Python and Flask.
+🌐 React.js | Node.js | Express.js | Flask
 
-🌱 Currently improving my skills in **Data Structures & Algorithms, Backend Development and Full-Stack Development**.
+🗄️ MySQL | MongoDB
 
-🎯 Looking for opportunities as a **Software Developer / Full-Stack Developer / Java Developer / Python Developer**.
+🤖 Machine Learning | Scikit-learn | NumPy
+
+🧠 Practicing **Data Structures & Algorithms**
+
+🎯 Looking for opportunities in **Software Development & Full-Stack Development**
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack
 
-### 👨‍💻 Programming Languages
+### 👨‍💻 Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=java,python,javascript" />
 </p>
 
-### 🌐 Frontend Development
+### 🌐 Frontend
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,bootstrap" />
+<p align="left">
+<img src="https://skillicons.dev/icons?i=html,css,react,bootstrap" />
 </p>
 
-### ⚙️ Backend Development
+### ⚙️ Backend
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
 </p>
 
-### 🗄️ Databases
+### 🗄️ Database
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
 </p>
 
-### 🤖 Data & Machine Learning
-
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-- NumPy
-- Scikit-learn
-- Machine Learning
-- Data Processing
-
 ### 🔧 Tools
 
-<p>
+<p align="left">
 <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
 ---
 
-# 🚀 Featured Projects
+# 📌 Featured Projects
 
-## ❤️ Heart Disease Detection System
+### ❤️ Heart Disease Detection System
 
-**Tech Stack:** `Python` `Flask` `Scikit-learn` `NumPy` `Bootstrap`
+**Python | Flask | Scikit-learn | NumPy | Bootstrap**
 
-A Machine Learning-based web application designed to predict the possibility of heart disease using medical input data.
+> Machine Learning based web application for predicting the possibility of heart disease from medical input data.
 
-### Features
-
-- 🧠 Machine Learning prediction
-- 👨‍⚕️ Doctor & Patient login
-- 💬 Patient query/chat functionality
-- 📊 Medical data processing
-- 🌐 Flask-based web application
-- 📱 User-friendly interface
+🔹 ML prediction model  
+🔹 Flask backend  
+🔹 Doctor & Patient login  
+🔹 Patient query functionality  
+🔹 Responsive interface  
 
 ---
 
-## 🍽️ Restaurant Management Website
+### 🍽️ Restaurant Management System
 
-**Tech Stack:** `HTML` `CSS` `JavaScript`
+**HTML | CSS | JavaScript**
 
-A web-based restaurant management system with separate client and staff workflows.
+> Web-based restaurant management system with separate client and staff workflows.
 
-### Features
-
-- 🔐 Client Login
-- 👤 Customer Registration
-- 🍔 Menu Management
-- 🧑‍💼 Staff Dashboard
-- 🍳 Cooking Management
-- 🧹 Cleaning Management
-- 📦 Order Management
-- 📋 Customer Information Management
+🔹 Client Login  
+🔹 Registration  
+🔹 Menu Management  
+🔹 Staff Dashboard  
+🔹 Order Management  
+🔹 Food & Cooking Management  
 
 ---
 
-## 👨‍👩‍👧 Family Management System
+### 👨‍👩‍👧 Family Management System
 
-**Tech Stack:** `Java` `JDBC` `MySQL`
+**Java | JDBC | MySQL**
 
-A Java-based application for managing family information using database connectivity.
+> Java application for managing family information using database connectivity.
 
-### Features
-
-- ➕ Add records
-- ✏️ Update records
-- 🗑️ Delete records
-- 🔍 Search records
-- 🗄️ MySQL database integration
-- 🔌 JDBC connectivity
+🔹 CRUD Operations  
+🔹 MySQL Database  
+🔹 JDBC Connectivity  
+🔹 Record Management  
 
 ---
 
-## 🧠 Online Quiz Platform
+### 🧠 Online Quiz Platform
 
-**Tech Stack:** `HTML` `CSS` `JavaScript` `Node.js` `JSON`
+**HTML | CSS | JavaScript | Node.js | JSON**
 
-An interactive online quiz platform with timed tests and performance-based interview functionality.
+> Interactive online quiz platform with timed tests and performance-based interview functionality.
 
-### Features
-
-- 📚 Subject-wise questions
-- ⏱️ Timer-based examination
-- 📝 Dynamic questions
-- 📊 Automatic score calculation
-- 🎯 Performance evaluation
-- 💼 Interview scheduling based on score
+🔹 Subject-wise Questions  
+🔹 Timer  
+🔹 Automatic Scoring  
+🔹 JSON Question Database  
+🔹 Interview Scheduling  
 
 ---
 
-## 🐍 Snake Game
+# 📊 GitHub Analytics
 
-**Tech Stack:** `Java` `Java GUI`
+<p align="center">
 
-A classic Snake Game developed using Java GUI programming.
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=SimpleSingh94&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
 
-### Features
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimpleSingh94&layout=compact&theme=tokyonight&hide_border=true" />
 
-- 🎮 Interactive gameplay
-- 📈 Score tracking
-- ⌨️ Keyboard controls
-- 🔄 Game restart functionality
+</p>
 
 ---
 
-# 💻 Coding & Problem Solving
+# 🔥 GitHub Streak
 
-I regularly practice programming and Data Structures & Algorithms.
+<p align="center">
 
-### Areas I'm practicing
+<img src="https://streak-stats.demolab.com?user=SimpleSingh94&theme=tokyonight&hide_border=true" />
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SimpleSingh94&theme=tokyo-night&hide_border=true" />
+
+</p>
+
+---
+
+# 💻 Coding Journey
 
 ```text
-Arrays
-Strings
-Searching
-Sorting
-Linked Lists
-Stack & Queue
-Hashing
-Recursion
-Basic Algorithms
-Problem Solving
-Java Programming
+Java                 █████████████████░░░  85%
+Python               ████████████████░░░░  80%
+JavaScript           ███████████████░░░░░  75%
+React.js             █████████████░░░░░░░  65%
+Node.js              █████████████░░░░░░░  65%
+SQL / MySQL          ███████████████░░░░░  75%
+MongoDB              ████████████░░░░░░░░  60%
+Machine Learning     ████████████░░░░░░░░  60%
