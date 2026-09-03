@@ -1,181 +1,293 @@
-<h1 align="center">Simple Singh</h1>
+<h1 align="center">Hi 👋, I'm Simple Singh</h1>
 
 <p align="center">
-  <strong>Computer Science Engineer · Software Developer · Full-Stack Developer</strong>
+  <strong>Computer Science Engineer | Software Developer | Full-Stack Developer</strong>
 </p>
 
 <p align="center">
   <a href="https://github.com/SimpleSingh94">
-    <img src="https://img.shields.io/badge/GitHub-SimpleSingh94-181717?style=flat-square&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-SimpleSingh94-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/simple-singh-176450230/">
+    <img src="https://img.shields.io/badge/LinkedIn-Simple%20Singh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/94sims6gcy">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=650&lines=Java+%7C+Python+%7C+JavaScript;React+%7C+Node.js+%7C+Flask;Full-Stack+Development+%7C+Machine+Learning;Building+practical+software+solutions" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Java+%7C+Python+%7C+JavaScript;React+%7C+Node.js+%7C+Express.js+%7C+Flask;Full-Stack+Development+%7C+Machine+Learning;Building+Practical+Software+Solutions;Always+Learning+%26+Improving+%F0%9F%9A%80">
 </p>
 
 ---
 
-## About
+## 👩‍💻 About Me
 
-I'm a **Computer Science & Engineering graduate** interested in building reliable, practical, and user-focused software applications.
+I'm a **Computer Science & Engineering graduate** passionate about software development, full-stack development, and problem solving.
 
-My development experience spans **Java, Python, JavaScript, frontend development, backend development, databases, and machine learning**.
+I enjoy building practical applications using **Java, Python, JavaScript, React, Node.js, Express.js, Flask, MySQL, and MongoDB**.
 
-I'm currently focused on strengthening my **Data Structures & Algorithms, backend development, and full-stack engineering** skills.
+I also have experience working with **Machine Learning using Python, NumPy, and Scikit-learn**.
 
-**Interests:** Software Development · Full-Stack Development · Backend Engineering · Machine Learning
-
----
-
-## Technical Skills
-
-**Languages**
-
-`Java` `Python` `JavaScript` `HTML` `CSS`
-
-**Frontend**
-
-`React.js` `Redux` `Bootstrap`
-
-**Backend**
-
-`Node.js` `Express.js` `Flask`
-
-**Databases**
-
-`MySQL` `MongoDB` `SQL`
-
-**Data & ML**
-
-`NumPy` `Scikit-learn`
-
-**Tools**
-
-`Git` `GitHub` `VS Code`
+- 🎓 B.Tech in Computer Science & Engineering
+- 💻 Interested in Software & Full-Stack Development
+- ☕ Java Developer
+- 🐍 Python Developer
+- 🌐 Web & Backend Development
+- 🤖 Machine Learning
+- 🧠 Data Structures & Algorithms
+- 🚀 Building practical software projects
 
 ---
 
-## Selected Projects
+## 🛠️ Tech Stack
 
-### Heart Disease Detection System
+### 💻 Programming Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
+</p>
+
+### 🌐 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,react,redux,bootstrap" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
+
+### 🤖 Data & Machine Learning
+
+<p>
+
+`NumPy` `Scikit-learn` `Machine Learning` `Data Processing`
+
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+# 🚀 Featured Projects
+
+<table>
+<tr>
+
+<td width="50%">
+
+## ❤️ Heart Disease Detection
 
 **Python · Flask · Scikit-learn · NumPy · Bootstrap**
 
-A machine-learning web application that predicts the possibility of heart disease from medical input data.
+Machine-learning-based web application that predicts the possibility of heart disease using medical input data.
 
-- Built a prediction workflow using a machine-learning model
-- Developed the backend using Flask
-- Created a web interface for user interaction
-- Implemented doctor and patient workflows
-- Added patient query functionality
+### Features
 
----
+- Machine Learning prediction
+- Flask backend
+- Doctor & Patient login
+- Patient query functionality
+- Medical data processing
+- Responsive web interface
 
-### Restaurant Management System
+</td>
+
+<td width="50%">
+
+## 🍽️ Restaurant Management
 
 **HTML · CSS · JavaScript**
 
-A web-based restaurant management application with separate client and staff workflows.
+Web-based restaurant management application with separate client and staff workflows.
 
-- Client authentication interface
-- Customer registration
-- Menu browsing and selection
-- Staff dashboard
-- Order management
-- Restaurant operation modules
+### Features
 
----
+- Client Login
+- Customer Registration
+- Menu Management
+- Staff Dashboard
+- Food Management
+- Cooking Management
+- Cleaning Management
+- Order Management
 
-### Family Management System
+</td>
+
+</tr>
+
+<tr>
+
+<td width="50%">
+
+## 👨‍👩‍👧 Family Management System
 
 **Java · JDBC · MySQL**
 
-A Java application for managing family information through database connectivity.
+Java-based application for managing family information using database connectivity.
 
-- CRUD operations
-- MySQL database integration
-- JDBC connectivity
-- Record management
+### Features
 
----
+- CRUD Operations
+- MySQL Integration
+- JDBC Connectivity
+- Record Management
+- Database Operations
 
-### Online Quiz Platform
+</td>
+
+<td width="50%">
+
+## 🧠 Online Quiz Platform
 
 **HTML · CSS · JavaScript · Node.js · JSON**
 
-An interactive quiz platform supporting timed assessments and performance-based interview functionality.
+Interactive online quiz platform with timed assessments and performance-based interview functionality.
 
-- Subject-based quizzes
-- Timed assessments
-- Dynamic question loading
-- Automatic score calculation
-- Performance-based interview workflow
+### Features
+
+- Subject-wise Questions
+- Timer-based Tests
+- Dynamic Questions
+- Automatic Scoring
+- Performance Evaluation
+- Interview Scheduling
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-## Currently Learning
+# 🧠 Problem Solving
+
+I regularly practice **Data Structures & Algorithms** and programming problems.
+
+### Areas of Practice
+
+- Arrays
+- Strings
+- Searching & Sorting
+- Linked Lists
+- Stack & Queue
+- Hashing
+- Recursion
+- Basic Algorithms
+- Java Programming
+- Problem Solving
+
+<p>
+  <a href="https://www.geeksforgeeks.org/profile/94sims6gcy">
+    <img src="https://img.shields.io/badge/View%20My%20GFG%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+  </a>
+</p>
+
+---
+
+# 📚 Currently Learning
 
 - Data Structures & Algorithms
 - Advanced Java
 - Backend Development
 - React.js
 - Node.js & Express.js
-- Database Design
+- SQL & Database Management
 - Machine Learning
+- Software Development Best Practices
 
 ---
 
-## GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api?username=SimpleSingh94&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
 
-  <img height="165"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimpleSingh94&layout=compact&hide_border=true&theme=transparent" />
-</p>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api?username=SimpleSingh94&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github&include_all_commits=true"/>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=SimpleSingh94&hide_border=true&theme=transparent" />
-</p>
+<img height="170"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimpleSingh94&layout=compact&hide_border=true&theme=tokyonight"/>
 
----
-
-## Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SimpleSingh94&theme=github-compact&hide_border=true" />
 </p>
 
 ---
 
-## Connect
+# 🔥 GitHub Streak
 
-<p align="left">
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=SimpleSingh94&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 📈 Contribution Activity
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=SimpleSingh94&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🎯 Career Focus
+
+I'm currently focused on becoming a strong **Software Developer** by continuously improving my programming, problem-solving, and development skills.
+
+### Interested In
+
+💻 Software Development  
+🌐 Full-Stack Development  
+☕ Java Development  
+🐍 Python Development  
+⚙️ Backend Development  
+🤖 Machine Learning  
+🧠 Data Structures & Algorithms  
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
 
 <a href="https://github.com/SimpleSingh94">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
 
-<!-- Add your LinkedIn -->
-<!--
-<a href="YOUR_LINKEDIN">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+<a href="https://www.linkedin.com/in/simple-singh-176450230/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
--->
 
-<!-- Add your professional email -->
-<!--
-<a href="mailto:YOUR_EMAIL">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+<a href="https://www.geeksforgeeks.org/profile/94sims6gcy">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
 </a>
--->
 
 </p>
 
 ---
 
 <p align="center">
-  <sub>Building software, learning continuously, and solving problems.</sub>
+
+### 💻 Build • Learn • Solve • Grow 🚀
+
+</p>
+
+<p align="center">
+  <i>Thanks for visiting my profile!</i>
 </p>
