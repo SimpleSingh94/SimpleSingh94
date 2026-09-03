@@ -17,58 +17,75 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=750&lines=Java+%7C+Python+%7C+JavaScript;React+%7C+Node.js+%7C+Express.js+%7C+Flask;Full-Stack+Development+%7C+Machine+Learning;Software+Development+%7C+Problem+Solving">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=Java+%7C+Python+%7C+JavaScript;Spring+Boot+%7C+Flask+%7C+JDBC;REST+APIs+%7C+MySQL+%7C+SQLite;Full-Stack+Development+%7C+DSA;Software+Development+%7C+Problem+Solving">
 </p>
 
 ---
 
-## 👩‍💻 Professional Summary
+## Professional Summary
 
-Computer Science & Engineering graduate with hands-on experience in **software development, full-stack web development, backend development, database management, and machine learning**.
+Computer Science & Engineering graduate with hands-on experience in **software engineering, backend development, and full-stack web development**.
 
-Technical proficiency includes **Java, Python, JavaScript, React.js, Node.js, Express.js, Flask, MySQL, MongoDB, NumPy, and Scikit-learn**.
+Experienced in developing **CRUD-based applications, REST APIs, database-driven systems, and machine-learning applications** using Java, Python, Flask, Spring Boot, JDBC, and MySQL.
 
-Experienced in developing academic and personal projects involving **web applications, CRUD systems, database integration, REST-based backend development, and machine-learning workflows**.
+Completed a **Software Engineering Internship at Locomotive Northern Railway**, contributing to backend modules, debugging, SQL-based development, and software development lifecycle activities.
 
-Currently focused on strengthening **Data Structures & Algorithms, backend engineering, and full-stack development**.
+Strong foundation in **Data Structures & Algorithms, Object-Oriented Programming, REST APIs, SDLC, debugging, and database management**.
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 
 ### Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=java,python,javascript" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css" />
 </p>
 
-### Frontend Development
+### Frameworks & Libraries
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,react,redux,bootstrap" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=spring,flask,bootstrap" />
 </p>
 
-### Backend Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask" />
-</p>
+`Spring Boot` `Flask` `JDBC`
 
 ### Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,sqlite" />
 </p>
 
-### Data & Machine Learning
+`MySQL` `SQLite`
 
-`NumPy` `Scikit-learn` `Machine Learning` `Data Processing`
+### Core Computer Science
 
-### Development Tools
+`Data Structures & Algorithms` `OOP` `REST APIs` `SDLC` `Debugging` `CRUD`
 
-<p>
+### Tools
+
+<p align="left">
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
+`Git` `GitHub` `VS Code` `MS Excel`
+
+---
+
+# 💼 Professional Experience
+
+## Software Engineering Intern
+
+### Locomotive Northern Railway — Lucknow
+
+**June 2024 – August 2024**
+
+- Developed and deployed robust **CRUD-based software modules** using object-oriented architecture.
+- Improved backend efficiency by **15%** through structured software development.
+- Collaborated with senior engineers to analyze real-world system requirements and develop scalable features.
+- Identified, tracked, and resolved **40+ functional bugs**, improving testing and debugging workflows.
+- Utilized **Java and SQL** within the Software Development Life Cycle.
+- Contributed to reliable software deployment and testing across departments.
 
 ---
 
@@ -76,91 +93,73 @@ Currently focused on strengthening **Data Structures & Algorithms, backend engin
 
 ## ❤️ Heart Disease Detection System
 
-**Python | Flask | Scikit-learn | NumPy | Bootstrap**
+**Python | Flask | REST API | Machine Learning | HTML | CSS | JavaScript**
 
-Machine-learning-based web application for predicting the possibility of heart disease from medical input data.
+End-to-end full-stack health monitoring web application using a Python Flask backend and machine-learning models.
 
-**Key Components**
+### Key Features
 
-- Machine-learning prediction model
-- Flask backend
-- Doctor and patient authentication
-- Patient query functionality
-- Medical data processing
-- Web-based user interface
-
----
-
-## 🍽️ Restaurant Management System
-
-**HTML | CSS | JavaScript**
-
-Web-based restaurant management application designed with separate client and staff workflows.
-
-**Key Components**
-
-- Client login
-- Customer registration
-- Menu browsing and selection
-- Staff dashboard
-- Food management
-- Cooking management
-- Cleaning management
-- Order management
+- Developed Flask-based backend with REST APIs.
+- Trained and evaluated **Logistic Regression** and **Random Forest Classifier** models.
+- Worked with **5,000+ medical records**.
+- Achieved **92% prediction accuracy**.
+- Achieved **95% AUC-ROC score**.
+- Developed responsive frontend views using HTML, CSS, and JavaScript.
 
 ---
 
 ## 👨‍👩‍👧 Family Management System
 
-**Java | JDBC | MySQL**
+**Java | JDBC | MySQL | Relational Database**
 
-Java-based application for managing family information through database connectivity.
+Database-driven desktop application developed to manage and digitize family records.
 
-**Key Components**
+### Key Features
 
-- Create, Read, Update and Delete operations
-- MySQL database integration
-- JDBC connectivity
-- Record management
-- Database operations
+- Implemented complete **CRUD functionality**.
+- Developed JDBC-based database connectivity.
+- Designed a **3NF-normalized MySQL database**.
+- Reduced relational query response time by **25%**.
+- Structured application logic into separate layers.
+- Implemented safe database operations to reduce SQL injection risks.
 
 ---
 
 ## 🧠 Online Quiz Platform
 
-**HTML | CSS | JavaScript | Node.js | JSON**
+**HTML | CSS | JavaScript**
 
-Interactive quiz platform supporting timed assessments and performance-based interview workflows.
+Responsive web-based testing platform designed for interactive quiz sessions.
 
-**Key Components**
+### Key Features
 
-- Subject-wise questions
-- Timed assessments
-- Dynamic question loading
-- Automatic score calculation
-- Performance evaluation
-- Interview scheduling workflow
+- Subject-wise quiz system.
+- Responsive user interface.
+- JavaScript session handling.
+- Automated score calculation.
+- State-saving functionality.
+- Live score generation.
+- Performance-based interview workflow.
 
 ---
 
-## 🐍 Snake Game
+# 🏆 Achievements
 
-**Java | Java GUI**
+### Samsung Hackathon
 
-Desktop-based Snake Game developed using Java GUI programming.
+Selected to compete in the **Samsung Hackathon** and developed a functional Java software prototype within a **24-hour development sprint**.
 
-**Key Components**
+### Academic Engagement
 
-- Interactive gameplay
-- Keyboard controls
-- Score tracking
-- Game restart functionality
+Participated in departmental **coding meetups and algorithmic design workshops**, contributing to technical discussions and problem-solving activities.
 
 ---
 
 # 🧠 Data Structures & Algorithms
 
-Regular practice of programming and problem-solving concepts including:
+Regularly practicing programming and algorithmic problem solving.
+
+### Areas of Practice
 
 - Arrays
 - Strings
@@ -169,12 +168,13 @@ Regular practice of programming and problem-solving concepts including:
 - Stack & Queue
 - Hashing
 - Recursion
-- Basic Algorithms
-- Java Programming
+- Object-Oriented Programming
+- Java Problem Solving
+- Algorithm Design
 
-<p>
+<p align="left">
   <a href="https://www.geeksforgeeks.org/profile/94sims6gcy">
-    <img src="https://img.shields.io/badge/GeeksforGeeks%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-View%20Profile-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white">
   </a>
 </p>
 
@@ -184,11 +184,11 @@ Regular practice of programming and problem-solving concepts including:
 
 - Data Structures & Algorithms
 - Advanced Java
+- Spring Boot
+- REST API Development
+- Backend Engineering
 - Full-Stack Development
-- Backend Development
-- React.js
-- Node.js & Express.js
-- SQL & Database Management
+- SQL & Database Design
 - Machine Learning
 - Software Engineering Practices
 
@@ -230,22 +230,24 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimpleSingh9
 
 # 🎓 Education
 
-**Bachelor of Technology — Computer Science & Engineering**
+## Bachelor of Technology — Computer Science & Engineering
 
-Lucknow University  
-2021 – 2025
+**University of Lucknow**
+
+**2021 – 2025**
+
+**First Class | 75%**
 
 ---
 
-# 🎯 Career Focus
-
-Seeking opportunities in:
+# 🎯 Career Interests
 
 - Software Development
+- Backend Development
 - Full-Stack Development
 - Java Development
 - Python Development
-- Backend Development
+- REST API Development
 - Web Development
 
 ---
@@ -271,6 +273,5 @@ Seeking opportunities in:
 ---
 
 <p align="center">
-  <strong>Software Development • Problem Solving • Continuous Learning</strong>
+  <strong>Software Engineering • Problem Solving • Continuous Learning</strong>
 </p>
-
