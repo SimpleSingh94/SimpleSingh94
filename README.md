@@ -1,138 +1,181 @@
-<h1 align="center">Hi 👋, I'm Simple Singh</h1>
+<h1 align="center">Simple Singh</h1>
 
-<h3 align="center">
-  Computer Science Engineer • Full Stack Developer • Java & Python
-</h3>
+<p align="center">
+  <strong>Computer Science Engineer · Software Developer · Full-Stack Developer</strong>
+</p>
 
 <p align="center">
   <a href="https://github.com/SimpleSingh94">
-    <img src="https://komarev.com/ghpvc/?username=SimpleSingh94&label=Profile%20Views&color=blue&style=flat" />
+    <img src="https://img.shields.io/badge/GitHub-SimpleSingh94-181717?style=flat-square&logo=github" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&center=true&vCenter=true&width=600&lines=Building+Web+Applications+%F0%9F%92%BB;Java+%7C+Python+%7C+JavaScript;React+%7C+Node.js+%7C+Flask;Learning+DSA+%26+Backend+Development+%F0%9F%9A%80" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=555555&center=true&vCenter=true&width=650&lines=Java+%7C+Python+%7C+JavaScript;React+%7C+Node.js+%7C+Flask;Full-Stack+Development+%7C+Machine+Learning;Building+practical+software+solutions" />
 </p>
 
 ---
 
-## 👩‍💻 About Me
+## About
 
-🎓 **B.Tech Computer Science & Engineering Graduate**
+I'm a **Computer Science & Engineering graduate** interested in building reliable, practical, and user-focused software applications.
 
-💻 I enjoy building **web applications, backend systems, and practical software projects**.
+My development experience spans **Java, Python, JavaScript, frontend development, backend development, databases, and machine learning**.
 
-🔹 Strong interest in **Software Development & Full Stack Development**
+I'm currently focused on strengthening my **Data Structures & Algorithms, backend development, and full-stack engineering** skills.
 
-🔹 Programming with **Java, Python and JavaScript**
-
-🔹 Building applications with **React, Node.js, Express.js and Flask**
-
-🔹 Working with **MySQL and MongoDB**
-
-🔹 Exploring **Machine Learning with Python**
-
-🔹 Currently improving my **Data Structures & Algorithms**
-
-🎯 **Open to Software Developer, Java Developer, Python Developer and Full Stack Developer opportunities.**
+**Interests:** Software Development · Full-Stack Development · Backend Engineering · Machine Learning
 
 ---
 
-## 🧰 Technologies I Work With
+## Technical Skills
 
-<p align="center">
+**Languages**
 
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,nodejs,express,flask,mysql,mongodb,git,github,vscode" />
+`Java` `Python` `JavaScript` `HTML` `CSS`
 
-</p>
+**Frontend**
+
+`React.js` `Redux` `Bootstrap`
+
+**Backend**
+
+`Node.js` `Express.js` `Flask`
+
+**Databases**
+
+`MySQL` `MongoDB` `SQL`
+
+**Data & ML**
+
+`NumPy` `Scikit-learn`
+
+**Tools**
+
+`Git` `GitHub` `VS Code`
 
 ---
 
-## 🚀 Featured Projects
+## Selected Projects
 
-<table>
-<tr>
-<td width="50%">
+### Heart Disease Detection System
 
-### ❤️ Heart Disease Detection
+**Python · Flask · Scikit-learn · NumPy · Bootstrap**
 
-**Python • Flask • Scikit-learn**
+A machine-learning web application that predicts the possibility of heart disease from medical input data.
 
-Machine-learning web application that predicts the possibility of heart disease using medical input data.
+- Built a prediction workflow using a machine-learning model
+- Developed the backend using Flask
+- Created a web interface for user interaction
+- Implemented doctor and patient workflows
+- Added patient query functionality
 
-**Highlights**
-- Machine Learning prediction
-- Flask backend
-- Doctor & Patient login
-- Patient query functionality
-- Responsive interface
+---
 
-</td>
+### Restaurant Management System
 
-<td width="50%">
+**HTML · CSS · JavaScript**
 
-### 🍽️ Restaurant Management
+A web-based restaurant management application with separate client and staff workflows.
 
-**HTML • CSS • JavaScript**
-
-Web-based restaurant management application with separate client and staff workflows.
-
-**Highlights**
-- Client dashboard
+- Client authentication interface
 - Customer registration
-- Menu management
+- Menu browsing and selection
 - Staff dashboard
 - Order management
-- Restaurant operations
+- Restaurant operation modules
 
-</td>
-</tr>
+---
 
-<tr>
-<td width="50%">
+### Family Management System
 
-### 👨‍👩‍👧 Family Management System
+**Java · JDBC · MySQL**
 
-**Java • JDBC • MySQL**
+A Java application for managing family information through database connectivity.
 
-Desktop application for managing family information with database connectivity.
-
-**Highlights**
 - CRUD operations
-- MySQL integration
+- MySQL database integration
 - JDBC connectivity
 - Record management
 
-</td>
+---
 
-<td width="50%">
+### Online Quiz Platform
 
-### 🧠 Online Quiz Platform
+**HTML · CSS · JavaScript · Node.js · JSON**
 
-**JavaScript • Node.js • JSON**
+An interactive quiz platform supporting timed assessments and performance-based interview functionality.
 
-Interactive quiz platform with timed tests and score-based interview functionality.
-
-**Highlights**
-- Subject-wise questions
-- Timer
-- Automatic scoring
-- Dynamic JSON questions
-- Interview scheduling
-
-</td>
-</tr>
-</table>
+- Subject-based quizzes
+- Timed assessments
+- Dynamic question loading
+- Automatic score calculation
+- Performance-based interview workflow
 
 ---
 
-## 💻 What I'm Currently Working On
+## Currently Learning
 
-```text
-🔹 Data Structures & Algorithms
-🔹 Java Development
-🔹 Full Stack Development
-🔹 React.js
-🔹 Node.js & Express.js
-🔹 SQL & Database Management
-🔹 Machine Learning
+- Data Structures & Algorithms
+- Advanced Java
+- Backend Development
+- React.js
+- Node.js & Express.js
+- Database Design
+- Machine Learning
+
+---
+
+## GitHub Statistics
+
+<p align="center">
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=SimpleSingh94&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=SimpleSingh94&layout=compact&hide_border=true&theme=transparent" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SimpleSingh94&hide_border=true&theme=transparent" />
+</p>
+
+---
+
+## Contribution Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SimpleSingh94&theme=github-compact&hide_border=true" />
+</p>
+
+---
+
+## Connect
+
+<p align="left">
+
+<a href="https://github.com/SimpleSingh94">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+</a>
+
+<!-- Add your LinkedIn -->
+<!--
+<a href="YOUR_LINKEDIN">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+</a>
+-->
+
+<!-- Add your professional email -->
+<!--
+<a href="mailto:YOUR_EMAIL">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white" />
+</a>
+-->
+
+</p>
+
+---
+
+<p align="center">
+  <sub>Building software, learning continuously, and solving problems.</sub>
+</p>
